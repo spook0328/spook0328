@@ -1,16 +1,18 @@
-<h2> Hi there 👋 I am Eric :) </h2>
+## Hi there 👋 I am Eric :)  
+I enjoy challenging myself with new experiences and aspire to become a software engineer.  
+I am passionate about full-stack development, data analytics, and creating impactful projects.
 
-Major in Edu and Computer Science🤖🤖🤖
-I enjoy challenging myself with new experiences and aspire to become a software engineer. <br>
-This is my self-created resume webpage, which provides detailed information about my career and educational background.  <br>
-Feel free to take a look: https://spook0328.github.io/index.html
+### 🎓 Education
+🎓 GBC - Computer Engineering (Class 2026)  
+🎓 NTNU - Information Education  
+🎓 TKU - Educational Informatics  
 
-主修教育與電腦科學 🤖🤖🤖
-我喜歡挑戰自己、嘗試新事物，並立志成為一名軟體工程師。
-這是我自製的履歷網頁，提供我職業與教育背景的詳細資訊。
-歡迎參觀：https://spook0328.github.io/index.html
+### 💼 Work & Internship
+🛠 Sunsino - QA Intern  
+👩‍🏫 Samsung Junior High School - IT Teacher  
+📊 TKU & NTNU - Research Assistant, National Taiwan Science and Technology Council  
 
-### Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -26,21 +28,3 @@ Feel free to take a look: https://spook0328.github.io/index.html
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-<!--
-**spook0328/spook0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
