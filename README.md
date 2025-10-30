@@ -1,6 +1,9 @@
+<h2> Hi there 👋 I am Eric :) </h2>
 Major in Edu and Computer Science🤖🤖🤖
 
-I enjoy challenging myself with new experiences, and I hope to become a software engineer in the future. This is my self-created resume webpage, which includes thorough information on my career and educational experiences. Feel free to look: https://spook0328.github.io/index.html
+I enjoy challenging myself with new experiences and aspire to become a software engineer. <br>
+This is my self-created resume webpage, which provides detailed information about my career and educational background.  <br>
+Feel free to take a look: https://spook0328.github.io/index.html
 
 我是個喜歡挑戰新事物的人，這裡有我自行製作的履歷網站，裡面有詳細的學經歷及工作及學習歷程，歡迎詳閱 https://spook0328.github.io/index.html
 <!--
